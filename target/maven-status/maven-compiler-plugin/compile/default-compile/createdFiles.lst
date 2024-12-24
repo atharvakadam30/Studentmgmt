@@ -1,0 +1,10 @@
+com\dao\DAO.class
+com\service\StudentService.class
+com\controller\PatientController.class
+com\dao\StudentDao.class
+com\pojo\Student.class
+com\service\PatientInterface.class
+com\controller\StudentController.class
+com\service\PatientServiceImpl.class
+com\pojo\Patient.class
+com\tka\Demo.class
